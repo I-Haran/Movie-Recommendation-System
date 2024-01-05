@@ -1,3 +1,3 @@
 # Movie-Recommendation-System
-Machine Learning model for Movie Recommendation User-based Filtering.
+Machine Learning model for Movie Recommendation using User-based Collaborative Filtering.
 
